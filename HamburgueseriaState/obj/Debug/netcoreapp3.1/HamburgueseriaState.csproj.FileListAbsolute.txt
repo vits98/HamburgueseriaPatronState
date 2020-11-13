@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\bin\Debug\netcoreapp3.1\HamburgueseriaState.exe
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\bin\Debug\netcoreapp3.1\HamburgueseriaState.deps.json
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\bin\Debug\netcoreapp3.1\HamburgueseriaState.runtimeconfig.json
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\bin\Debug\netcoreapp3.1\HamburgueseriaState.runtimeconfig.dev.json
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\bin\Debug\netcoreapp3.1\HamburgueseriaState.dll
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\bin\Debug\netcoreapp3.1\HamburgueseriaState.pdb
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\obj\Debug\netcoreapp3.1\HamburgueseriaState.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\obj\Debug\netcoreapp3.1\HamburgueseriaState.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\obj\Debug\netcoreapp3.1\HamburgueseriaState.AssemblyInfo.cs
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\obj\Debug\netcoreapp3.1\HamburgueseriaState.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\obj\Debug\netcoreapp3.1\HamburgueseriaState.dll
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\obj\Debug\netcoreapp3.1\HamburgueseriaState.pdb
+C:\Users\victo\source\repos\HamburgueseriaState\HamburgueseriaState\obj\Debug\netcoreapp3.1\HamburgueseriaState.genruntimeconfig.cache
